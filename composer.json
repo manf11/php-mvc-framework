@@ -1,0 +1,15 @@
+{
+    "name": "akhlisnf/php-mvc-framework",
+    "authors": [
+        {
+            "name": "manf11",
+            "email": "mohahlisnoorfuad1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
